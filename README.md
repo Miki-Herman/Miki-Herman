@@ -7,7 +7,7 @@ Student. Software Developer
 Hello, I am a student and I have a big passion for learning new things and for discovering new stuff in the world of tech.
 
 * 🌍  I'm based in Czech Republic
-* 🧠  I'm learning JavaScript, Python, React
+* 🧠  I'm learning Problem Solving
 
 ### Skills
 
